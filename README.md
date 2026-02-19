@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm [Your Name]
 
-<!--
-**timserck/timserck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🚀 Open-source enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 Learning: [Technology / Skill]
+- 🔭 Working on: [Project or Goal]
+- ⚡ Interests: Coding, tech, problem-solving
+
+---
+
+### 🛠 Tech Stack
+- Languages: [JavaScript, Python, etc.]
+- Frameworks: [React, Node, etc.]
+- Tools: Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+- ⭐ Public Repositories: X
+- 👥 Followers: X
+- 🔁 Contributions: Active
+
+---
+
+### 🌐 Connect With Me
+- Website: [http://timserck](http://timserck.free.fr/)
+- LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/timotheeserck/)
+- Twitter/X: [https://twitter.com/username](https://x.com/Serck_Timothee)
