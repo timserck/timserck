@@ -49,11 +49,6 @@ Intégrateur / Front-end Developer | 💻 Building modern web apps
 
 ---
 
-### 🌐 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timserck&hide_title=true&count_private=true&show_icons=true)
-
----
-
 ### 🌐 Connect With Me
 - Website: [timserck.free.fr](http://timserck.free.fr)  
 - LinkedIn: [linkedin.com/in/timotheeSerck](https://www.linkedin.com/in/timotheeSerck)  
